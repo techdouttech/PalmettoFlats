@@ -302,4 +302,6 @@ collections:
     permalink: /:collection/:path
 
 include: ["_pages", "_parents"]
+classes: wide
+
 
