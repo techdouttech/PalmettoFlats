@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Palmetto Flatts"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Adorable"
+name                     : ""
 description              : " "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -290,5 +290,15 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar: 
+        nav: "docs"
 
-search: true
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  parents:
+    output: true
+    permalink: /:collection/:path
+
+include: ["_pages", "_parents"]

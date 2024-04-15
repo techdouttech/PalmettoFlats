@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "The Barn"
+    url: /the-barn/
+  - title: "Events"
+    url: /categories/
+  - title: "Shorty Jacks"
+    url: /shorty-jacks/
+  - title: "Mission Statement"
+    url: /page-archive/
+  - title: "Testimonials"
+    url: /collection-archive/
+  - title: "About Us"
+    url: https://google.com
+
+    
