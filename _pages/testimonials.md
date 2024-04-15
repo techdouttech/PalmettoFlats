@@ -1,8 +1,8 @@
 ---
-title: The Barn
+title: Testimonials
 layout: collection
 collection: posts
-permalink: /the-barn/
+permalink: /testimonials/
 ---
 
 UNDER CONSTRUCTION

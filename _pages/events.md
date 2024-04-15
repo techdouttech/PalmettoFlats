@@ -1,8 +1,8 @@
 ---
-title: The Barn
+title: Events
 layout: collection
 collection: posts
-permalink: /the-barn/
+permalink: /events/
 ---
 
 UNDER CONSTRUCTION

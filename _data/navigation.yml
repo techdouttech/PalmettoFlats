@@ -3,14 +3,14 @@ main:
   - title: "The Barn"
     url: /the-barn/
   - title: "Events"
-    url: /categories/
+    url: /events/
   - title: "Shorty Jacks"
     url: /shorty-jacks/
   - title: "Mission Statement"
-    url: /page-archive/
+    url: /mission-statement/
   - title: "Testimonials"
-    url: /collection-archive/
+    url: /testimonials/
   - title: "About Us"
-    url: https://google.com
+    url: /about-us/
 
     

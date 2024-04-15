@@ -1,8 +1,8 @@
 ---
-title: The Barn
+title: Mission Statement
 layout: collection
 collection: posts
-permalink: /the-barn/
+permalink: /mission-statement/
 ---
 
 UNDER CONSTRUCTION
