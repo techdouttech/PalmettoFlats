@@ -3,9 +3,9 @@ layout: single
 title: "The Dams"
 excerpt: ""
 permalink: /shorty-jacks/the-dams
-#header: 
-    #image: /assets/DamsSires/MissKitty.jpg
-   # teaser: /assets/DamsSires/MissKitty.jpg
+header: 
+  #image: /assets/DamsSires/MissKitty.jpg
+ teaser: /assets/DamsSires/MissKitty2.jpg
 #image:
   #  path: /assets/DamsSires/MissKitty.jpg
 ---

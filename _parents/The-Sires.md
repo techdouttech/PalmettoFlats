@@ -3,9 +3,9 @@ layout: single
 title: "The Sires"
 excerpt: ""
 permalink: /shorty-jacks/the-sires
-#header: 
+header: 
     #image: /assets/DamsSires/MissKitty.jpg
-   # teaser: /assets/DamsSires/MissKitty.jpg
+  teaser: /assets/DamsSires/MaxSire.png
 #image:
   #  path: /assets/DamsSires/MissKitty.jpg
 ---

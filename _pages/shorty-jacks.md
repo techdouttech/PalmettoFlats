@@ -1,6 +1,8 @@
 ---
 title: Shorty Jacks
 layout: collection
-collection: parents
+collection: puppies
 permalink: /shorty-jacks/
+entries_layout: grid
+classes: wide
 ---
