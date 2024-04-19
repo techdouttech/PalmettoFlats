@@ -1,7 +1,6 @@
 ---
 title: Mission Statement
-layout: collection
-collection: posts
+layout: single
 permalink: /mission-statement/
 ---
 
