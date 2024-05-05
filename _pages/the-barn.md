@@ -1,10 +1,8 @@
 ---
-<center>
 title: The Barn
 layout: collection
 collection: posts
 permalink: /the-barn/
-</center>
 ---
 
 <center> 
